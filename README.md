@@ -15,4 +15,4 @@ Modification includes-
 Original project Simple-Flashlight source code license & copyright owner Simple Mobile Tools. You can visit them here https://github.com/SimpleMobileTools/
 
 Link for source code-
-https://drive.google.com/file/d/1Z8GbcPXmv6lvTQYPocREJDwyhE9rRK4C/view?usp=sharing
+https://drive.google.com/file/d/1zH3AHk4JLQTkZrUflsHZSNZH4ELwJ2At/view?usp=sharing
